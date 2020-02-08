@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Brett Stark Test GitHub Blog - Welcome
 
 I'm glad you are here. Not really sure what I'll be talking about or if even this will end point of my blog.
 
